@@ -16,7 +16,7 @@ const Navbar = () => {
   }, [searchData]);
 
   return (
-    <nav className="navbar navbar-expand-lg bg-body-tertiary">
+    <nav className="navbar navbar-expand-sm bg-body-tertiary">
       <div className="container-fluid">
         <b className="navbar-brand ">Navbar</b>
         <button
